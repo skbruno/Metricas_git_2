@@ -1,0 +1,18 @@
+gh issue list -R pandas-dev/pandas --state closed
+gh issue list -R pandas-dev/pandas --state open
+
+gh pr list -R pandas-dev/pandas --state closed
+gh pr list -R pandas-dev/pandas --state open
+
+--
+
+
+gh issue list -R pola-rs/polars --state closed
+gh issue list -R pola-rs/polars --state open
+
+gh pr list -R pola-rs/polars --state closed
+gh pr list -R pola-rs/polars --state open
+
+---
+
+gh issue view -R pola-rs/polars

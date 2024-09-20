@@ -1,0 +1,21 @@
+Rep 1 - Pandas https://github.com/pandas-dev/pandas
+Rep 2 - Polars https://github.com/pola-rs/polars
+
+
+
+1 - Metrica 1 Engajamento da Equipe
+- Quantidade de commits feito durante o ano de 2023/2024 - ok
+- Top 10 commits - ok
+- Quantidades de Contribuições - ok
+- Número de Pull Requests abertas por contribuidores externos: Quantidade de contribuições propostas pela comunidade.
+
+---------
+
+2 - Metrica 2
+- Quantidade de commits feito na pasta docs e readme - ok
+
+---------
+
+3 - Metrica 3 -  Engajamento da Comunidade 
+- Numero de Issues - ok
+- Número de Pull Requests abertas por contribuidores externos: Quantidade de contribuições propostas pela comunidade.
